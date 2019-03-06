@@ -3,12 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Ders2Lab;
+package Ders04;
 
 /**
  *
  * @author alinizam
  */
-public class Personel {
-    String name;
+public class Ornek7 {
+    public static void main(String[] args) {
+        int sayi=153;
+        String s=Integer.toString(sayi);
+        String s1=String.valueOf(sayi);
+    }
 }
