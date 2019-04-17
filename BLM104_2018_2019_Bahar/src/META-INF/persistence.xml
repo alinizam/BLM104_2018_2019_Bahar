@@ -4,6 +4,8 @@
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
     <class>Ders09.Malzeme</class>
     <class>Ders10.Personel</class>
+    <class>Ders10Lab.Hasta</class>
+    <class>Ders10Lab.Doktor</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/sample"/>
       <property name="javax.persistence.jdbc.user" value="app"/>
